@@ -1,0 +1,30 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "sql",
+    "imageSrc": "skills/sq.png"
+  },
+  {
+    "title": "Tensorflow",
+    "imageSrc": "skills/ten.png"
+  },
+  {
+    "title": "Machine Learning",
+    "imageSrc": "skills/ml.png"
+  },
+  {
+    "title": "Flutter",
+    "imageSrc": "skills/flu.png"
+  }
+]

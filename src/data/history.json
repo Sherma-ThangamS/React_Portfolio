@@ -1,0 +1,29 @@
+[
+  {
+    "role": "ML Engineer Intern",
+    "organisation": "SkillVertex",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on Classification model", "Project on detecting credit card fraud"],
+    "imageSrc": "history/skillvertex.png"
+  },
+  {
+    "role": "Data Scientist Intern",
+    "organisation": "CoderaCave",
+    "startDate": "Aug, 2023",
+    "endDate": "Sept, 2022",
+    "experiences": ["Worked on Regression", "Project on Stock Market Price Predition"],
+    "imageSrc": "history/CodersCave.png"
+  },
+  {
+    "role": "Artificial Intellegence Intern",
+    "organisation": "IBM",
+    "startDate": "Apr, 2023",
+    "endDate": "Jun, 2023",
+    "experiences": [
+      "Worked on TensorFlow library",
+      "Helped me create a strong foundation in AI/ML field"
+    ],
+    "imageSrc": "history/IBM.png"
+  }
+]

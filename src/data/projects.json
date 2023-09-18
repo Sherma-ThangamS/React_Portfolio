@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Notes Making",
+    "imageSrc": "projects/Notes.jpg",
+    "description": "I learned flutter language while working on this project which will be invaluable for future, more complex projects",
+    "skills": ["Flutter","App Development"],
+    "demo": "https://sherma-thangams.github.io/Flutter_Notes_making_app/#/",
+    "source": "https://github.com/Sherma-ThangamS/Flutter_Notes_making_app"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/facial.jpg",
+    "description": "I developed a deep learning model using TensorFlow to accurately recognize facial expressions.",
+    "skills": ["Tensorflow", "Deep Learning"],
+    "demo": "https://www.linkedin.com/posts/sherma-thangam-s-a9815825a_facialexpressionrecognition-deeplearning-activity-7078349588482457600-4Skw?utm_source=share&utm_medium=member_desktop",
+    "source": "https://github.com/Sherma-ThangamS/FACIAL-EXPRESSION"
+  },
+  {
+    "title": "STOCK PREDICTION",
+    "imageSrc": "projects/stock.jpg",
+    "description": "This is a machine learning project that uses linear regression to predict stock prices based on historical data.",
+    "skills": ["ML Algorithm", "Supervised Learning"],
+    "demo": "https://www.linkedin.com/posts/sherma-thangam-s-a9815825a_machinelearning-linearregression-datascience-activity-7051184431977410560-Epzy?utm_source=share&utm_medium=member_desktop",
+    "source": "https://github.com/Sherma-ThangamS/AAPL_STOCK_PREDICTION"
+  }
+]
