@@ -8,7 +8,7 @@
     "source": "https://github.com/Sherma-ThangamS/Flutter_Notes_making_app"
   },
   {
-    "title": "Project B",
+    "title": "Facial Emotion Detection",
     "imageSrc": "projects/facial.jpg",
     "description": "I developed a deep learning model using TensorFlow to accurately recognize facial expressions.",
     "skills": ["Tensorflow", "Deep Learning"],
