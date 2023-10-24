@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This website showcases my skills, projects, and experiences as a software developer.
 
-🚀 **Live Website**: [Sherma Thangam's Portfolio](https://sherma-thangams.github.io/React_Portfolio/)
+🚀 **Live Website**: [Portfolio](https://sherma-thangams.github.io/React_Portfolio/)
 
 ## About
 
@@ -25,7 +25,7 @@ This portfolio website serves as a hub for all things related to my career as a 
 
 ## Usage
 
-1. Visit the [Live Website](https://sherma-thangams.github.io/React_Portfolio/) to explore my portfolio.
+1. Visit the [Website](https://sherma-thangams.github.io/React_Portfolio/) to explore my portfolio.
 
 2. Browse through sections to learn more about my skills, education, and work history.
 
