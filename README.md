@@ -49,5 +49,3 @@ You can contact me through various channels:
 Thank you for visiting my portfolio website! I hope you enjoy exploring my work and experiences.
 
 **Note: This website is continually updated to reflect my latest work and experiences.**
-
-![Sherma Thangam](https://yourimageurl.com)
