@@ -88,7 +88,6 @@ function App() {
           ref={(el) => (circlesRef.current[index] = el)}
           className="circle"
           style={{
-            position: 'absolute',
             width: '24px',
             height: '24px',
             position: "fixed",
