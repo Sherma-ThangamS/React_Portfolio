@@ -45,13 +45,16 @@ function App() {
     });
 
     const handleMouseMove = (e) => {
+      console.log(e);
       setCoords({ x: e.clientX, y: e.clientY });
     };
-
-    window.addEventListener('mousemove', handleMouseMove);
+    window.addEventListener("cancel",e=>{
+      console.log("Cancel")
+    })
+    window.addEventListener('pointermove', handleMouseMove);
 
     return () => {
-      window.removeEventListener('mousemove', handleMouseMove);
+      window.removeEventListener('pointermove', handleMouseMove);
     };
   }, []); // Empty dependency array ensures that the effect runs only once, like componentDidMount
   function animateCircles() {
@@ -108,3 +111,4 @@ function App() {
 }
 
 export default App;
+
