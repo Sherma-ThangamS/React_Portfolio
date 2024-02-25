@@ -10,7 +10,9 @@ import React, { useState, useEffect } from 'react';
 function App() {
   const [coords, setCoords] = useState({ x: 0, y: 0 });
   const circlesRef = React.useRef([]);
-
+  const handleTouchMove = (e) => {
+    setCoords({ x: e.nativeEvent.touches[0].clientX, y: e.nativeEvent.touches[0].clientY });
+  };
   useEffect(() => {
     const colors = [
       "#ffb56b",
@@ -45,16 +47,17 @@ function App() {
     });
 
     const handleMouseMove = (e) => {
-      console.log(e);
       setCoords({ x: e.clientX, y: e.clientY });
     };
+    
+
+    
+    window.addEventListener('mousemove', handleMouseMove);
     window.addEventListener("cancel",e=>{
       console.log("Cancel")
     })
-    window.addEventListener('pointermove', handleMouseMove);
-
     return () => {
-      window.removeEventListener('pointermove', handleMouseMove);
+      window.removeEventListener('mousemove', handleMouseMove);
     };
   }, []); // Empty dependency array ensures that the effect runs only once, like componentDidMount
   function animateCircles() {
@@ -84,7 +87,7 @@ function App() {
   }, [coords]);
   
   return (
-    <div className={styles.App}>
+    <div className={styles.App} onTouchMove={handleTouchMove}>
       {Array.from({ length: 18 }).map((_, index) => (
         <div
           key={index}
@@ -111,4 +114,3 @@ function App() {
 }
 
 export default App;
-
