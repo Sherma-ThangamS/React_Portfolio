@@ -1,3 +1,4 @@
+import { BrowserRouter as Router } from "react-router-dom";
 import styles from "./App.module.css";
 import { About } from "./components/About/About";
 import { Contact } from "./components/Contact/Contact";
@@ -87,6 +88,7 @@ function App() {
   }, [coords]);
   
   return (
+    <Router>
     <div className={styles.App} onTouchMove={handleTouchMove}>
       {Array.from({ length: 18 }).map((_, index) => (
         <div
@@ -110,6 +112,7 @@ function App() {
       <Projects />
       <Contact />
     </div>
+    </Router>
   );
 }
 
