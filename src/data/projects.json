@@ -2,7 +2,7 @@
   {
     "title": "PriceVista",
     "imageSrc": "projects/priceVista.jpg",
-    "description": "📈Price Tracking and 🚨 Smart Notifications: Get real-time updates on the average, highest, and lowest prices for products from any Amazon link. Users receive instant email notifications when a product's price drops by a whopping 40%!",
+    "description": "Price Tracking and Smart Notifications: Get real-time updates and receive instant email when a product's price drops by a whopping 40%!",
     "skills": ["NextJS", "MongoDB","Web Scraping"],
     "demo": "https://pricevista.vercel.app/",
     "source": "https://github.com/Sherma-ThangamS/Price-Vista"
@@ -18,17 +18,9 @@
   {
     "title": "Medical Assistant",
     "imageSrc": "projects/medi-bot.png",
-    "description": "MediBot is a medical chatbot powered by advanced AI and natural language processing. It can answer your medical queries, provide information on various health topics, and assist you in finding the information you need.",
+    "description": "MediBot is a medical chatbot using RAG technology and implemented multi-modal llms which can also take image as input and also have voice feature.",
     "skills": ["LLMs","RAG","Multi-Modal","NLP"],
     "demo": "https://orcamedia.vercel.app/",
     "source": "https://github.com/Sherma-ThangamS/Social_Media"
-  },
-  {
-    "title": "Notes Making",
-    "imageSrc": "projects/Notes.jpg",
-    "description": "I learned flutter language while working on this project which will be invaluable for future, more complex projects",
-    "skills": ["Flutter","App Development"],
-    "demo": "https://sherma-thangams.github.io/Flutter_Notes_making_app/#/",
-    "source": "https://github.com/Sherma-ThangamS/Flutter_Notes_making_app"
   }
 ]
