@@ -1,26 +1,34 @@
 [
   {
+    "title": "PriceVista",
+    "imageSrc": "projects/priceVista.jpg",
+    "description": "📈Price Tracking and 🚨 Smart Notifications: Get real-time updates on the average, highest, and lowest prices for products from any Amazon link. Users receive instant email notifications when a product's price drops by a whopping 40%!",
+    "skills": ["NextJS", "MongoDB","Web Scraping"],
+    "demo": "https://pricevista.vercel.app/",
+    "source": "https://github.com/Sherma-ThangamS/Price-Vista"
+  },
+  {
+    "title": "OrcaMedia",
+    "imageSrc": "projects/orcamedia.jpg",
+    "description": " Implemented core functionalities such as user authentication, post creation, and interaction with a clean and intuitive UI designed with React.",
+    "skills": ["MySQL","ReactJS","Express","NodeJS"],
+    "demo": "https://orcamedia.vercel.app/",
+    "source": "https://github.com/Sherma-ThangamS/Social_Media"
+  },
+  {
+    "title": "Medical Assistant",
+    "imageSrc": "projects/medi-bot.png",
+    "description": "MediBot is a medical chatbot powered by advanced AI and natural language processing. It can answer your medical queries, provide information on various health topics, and assist you in finding the information you need.",
+    "skills": ["LLMs","RAG","Multi-Modal","NLP"],
+    "demo": "https://orcamedia.vercel.app/",
+    "source": "https://github.com/Sherma-ThangamS/Social_Media"
+  },
+  {
     "title": "Notes Making",
     "imageSrc": "projects/Notes.jpg",
     "description": "I learned flutter language while working on this project which will be invaluable for future, more complex projects",
     "skills": ["Flutter","App Development"],
     "demo": "https://sherma-thangams.github.io/Flutter_Notes_making_app/#/",
     "source": "https://github.com/Sherma-ThangamS/Flutter_Notes_making_app"
-  },
-  {
-    "title": "Facial Emotion Detection",
-    "imageSrc": "projects/facial.jpg",
-    "description": "I developed a deep learning model using TensorFlow to accurately recognize facial expressions.",
-    "skills": ["Tensorflow", "Deep Learning"],
-    "demo": "https://www.linkedin.com/posts/sherma-thangam-s-a9815825a_facialexpressionrecognition-deeplearning-activity-7078349588482457600-4Skw?utm_source=share&utm_medium=member_desktop",
-    "source": "https://github.com/Sherma-ThangamS/FACIAL-EXPRESSION"
-  },
-  {
-    "title": "STOCK PREDICTION",
-    "imageSrc": "projects/stock.jpg",
-    "description": "This is a machine learning project that uses linear regression to predict stock prices based on historical data.",
-    "skills": ["ML Algorithm", "Supervised Learning"],
-    "demo": "https://www.linkedin.com/posts/sherma-thangam-s-a9815825a_machinelearning-linearregression-datascience-activity-7051184431977410560-Epzy?utm_source=share&utm_medium=member_desktop",
-    "source": "https://github.com/Sherma-ThangamS/AAPL_STOCK_PREDICTION"
   }
 ]
