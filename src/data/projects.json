@@ -20,7 +20,7 @@
     "imageSrc": "projects/medi-bot.png",
     "description": "MediBot is a medical chatbot using RAG technology and implemented multi-modal llms which can also take image as input and also have voice feature.",
     "skills": ["LLMs","RAG","Multi-Modal","NLP"],
-    "demo": "https://orcamedia.vercel.app/",
-    "source": "https://github.com/Sherma-ThangamS/Social_Media"
+    "demo": "https://sherma-medibot.streamlit.app/",
+    "source": "https://github.com/Sherma-ThangamS/Medical-Bot"
   }
 ]
